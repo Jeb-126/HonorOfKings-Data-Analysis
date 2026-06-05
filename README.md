@@ -37,7 +37,6 @@
 HonorOfKings-DataAnalysis
 │
 ├── README.md
-├── .gitignore
 │
 ├── data/          # 原始数据与清洗后数据
 ├── role/          # 按英雄定位分类的数据
